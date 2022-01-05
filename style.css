@@ -3,7 +3,7 @@ body{
     .top-one{
         color: #F59860;
     }
-    section{
+    .flex-banner{
         display: flex;
     }
     .half-width{
@@ -22,10 +22,27 @@ body{
     h1{
         font-size: 35px;
         line-height: 15px;
+        font-weight: 900;
     }
     .link-button{
         background-color: palegoldenrod;
         text-decoration: none;
         border-radius: 5px;
         padding: 10px 40px;
+    }
+    h2{
+        text-align: center;
+        font-size: 40px;
+    }
+    
+    .ilusion{
+        background-color: paleturquoise;
+        padding: 5px 50px;
+    }
+    .ilusion img{
+        height: 30%;
+        width: 30%;
+    }
+    .ilusion-witdh{
+        width: 33%;
     }
