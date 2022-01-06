@@ -5,6 +5,8 @@ body{
     }
     .flex-banner{
         display: flex;
+        height: 5%;
+        
     }
     .half-width{
         width: 50%;
@@ -37,12 +39,36 @@ body{
     
     .ilusion{
         background-color: paleturquoise;
-        padding: 5px 50px;
+        padding: 2%;
+        border-radius: 5px;
+    }
+    .ilusion-witdh{
+        width: 33%;
+        margin-left: 5%;
     }
     .ilusion img{
         height: 30%;
         width: 30%;
+        padding-left: 30px;
     }
-    .ilusion-witdh{
-        width: 33%;
+    .ilution-two{
+        background-color: sandybrown;
+        padding: 2%;
+        border-radius: 5px;
+        
+    }
+    .ilution-two img{
+        height: 30%;
+        width: 30%;
+        padding-left: 30px;
+    }
+    .ilusion-three{
+        background-color: skyblue;
+        padding:2%;
+        border-radius: 5px
+    }
+    .ilusion-three img{
+        height: 30%;
+        width: 30%;
+        padding-left: 30px;
     }
