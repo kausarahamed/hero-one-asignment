@@ -6,7 +6,7 @@ body{
     .flex-banner{
         display: flex;
         height: 5%;
-        
+        margin-right: 5%;   
     }
     .half-width{
         width: 50%;
