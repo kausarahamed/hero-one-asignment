@@ -40,7 +40,7 @@ body{
     .ilusion{
         background-color: paleturquoise;
         padding: 2%;
-        border-radius: 5px;
+        border-radius: 15px;
     }
     .ilusion-witdh{
         width: 33%;
@@ -54,7 +54,7 @@ body{
     .ilution-two{
         background-color: sandybrown;
         padding: 2%;
-        border-radius: 5px;
+        border-radius: 15px;
         
     }
     .ilution-two img{
@@ -65,7 +65,7 @@ body{
     .ilusion-three{
         background-color: skyblue;
         padding:2%;
-        border-radius: 5px
+        border-radius: 15px
     }
     .ilusion-three img{
         height: 30%;
@@ -89,7 +89,7 @@ body{
     background-position: 1%;
    }
  .mar{
-    margin-top: 15%;
+    margin-top: 7%;
     margin-right: 5%;
     margin-bottom: 5%;
  }
@@ -104,11 +104,26 @@ body{
     padding-left: 15%;
     padding-bottom: 12%;
 }
+.five{  background-image: url(mission-2022-main/images/shapes/shape-6.png), url(mission-2022-main/images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: left bottom,right top;
+padding-left: 2%;
+padding-top: 1%;}
+.five img{
+    width: 70%;
+    padding-left: 15%;
+    padding-bottom: 12%;
+    padding-top: 10%;
+}
+
 footer{
     text-align: center;
     background-color: #CA3E0B;
     height: 130px;
     padding-top: 40px;
     font-family: 'The Nautigal', cursive;
+    color: white;
+    
 }
 
